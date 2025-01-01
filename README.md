@@ -4,10 +4,7 @@
 - 🎓 Working on Bachelors in Cybersecurity and Information Assurance  
 - 💼 4+ years of experience in Server Administration  
 - 🔒 Passionate about cybersecurity, automation, and Active Directory management  
-- 🚀 Currently building a portfolio of automation and DFIR projects  
-
-🌐 **Find Me On LinkedIn**:  
-- [LinkedIn](https://www.linkedin.com/in/uri-rodriguez16/)
+- 🚀 Currently building a portfolio of automation and DFIR projects
 
 💻 **Skills**:  
 - Programming: Python (Beginner), PowerShell, SQL
@@ -24,3 +21,6 @@
 - SSCP Certification Preparation  
 - Advanced SIEM and Threat Hunting
 - 100 Days of Code: The Complete Python Pro Bootcamp
+
+🌐 **Find Me On LinkedIn**:  
+- [Uri Rodriguez on LinkedIn](https://www.linkedin.com/in/uri-rodriguez16/)
