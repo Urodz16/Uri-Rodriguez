@@ -6,16 +6,20 @@
 - 🔒 Passionate about cybersecurity, automation, and Active Directory management  
 - 🚀 Currently building a portfolio of automation and DFIR projects
 
+---
+
 💻 **Skills**:  
-- Programming: Python (Beginner), PowerShell, SQL
+- Programming: PowerShell, Python (Beginner), SQL (Beginner)
 - Tools: Active Directory, Splunk, Sysmon, VirtualBox  
 - Cybersecurity: SIEM, DFIR, Vulnerability Scanning
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=urodz84&layout=compact)
+---
 
 📂 **Highlighted Projects**:  
-- [Incident Response Toolkit](https://github.com/yourusername/incident-response-toolkit)  
-- [Sysmon + SIEM Integration](https://github.com/yourusername/sysmon-siem-integration)  
+- [Home Lab Setup](https://github.com/Urodz16/home-lab-setup)
+- **More on the way come!**
+
+---
 
 ✍️ **Ongoing Learning**:  
 - SSCP Certification Preparation  
